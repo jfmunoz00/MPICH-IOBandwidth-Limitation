@@ -1,0 +1,4 @@
+./modules/json-c/.travis.yml
+./modules/libfabric/.travis.yml
+./modules/izem/.travis.yml
+./.travis.yml
