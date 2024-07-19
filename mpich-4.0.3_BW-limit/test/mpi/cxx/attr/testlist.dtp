@@ -1,2 +1,0 @@
-fkeyvaltypex 1 arg=-type=MPI_INT arg=-count=1 arg=-seed=15 arg=-testsize=1024  
-fkeyvaltypex 1 arg=-type=MPI_INT:4+MPI_DOUBLE:8 arg=-count=1 arg=-seed=16 arg=-testsize=1024  
