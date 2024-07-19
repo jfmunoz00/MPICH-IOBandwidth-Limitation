@@ -1,0 +1,2 @@
+packsizex 1 arg=-type=MPI_INT arg=-count=1 arg=-seed=17 arg=-testsize=1024  
+packsizex 1 arg=-type=MPI_INT:4+MPI_DOUBLE:8 arg=-count=1 arg=-seed=18 arg=-testsize=1024  
